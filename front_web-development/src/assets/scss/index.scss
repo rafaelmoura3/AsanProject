@@ -1,0 +1,60 @@
+@import './variables/_button_gold';
+@import './variables/_button_edit';
+@import './variables/_text';
+@import './variables/_edit';
+@import './variables/_center';
+@import './variables/_wrapper';
+@import './variables/_text--light';
+@import './variables/_inline-row';
+@import './variables/_min-whidth-actions';
+@import './variables/_underline';
+@import './variables/_bordersRadius';
+
+.btn-gold {
+  @include button_gold;
+}
+.btn-gold:active {
+  @include button_gold_active;
+}
+.titulo {
+  @include title-default;
+}
+.actions-inline{
+  @include inline-row;
+}
+
+.btnEdit {
+  @include align-center-edit;
+}
+
+.edit {
+  @include margin-edit;
+}
+
+.wrapper {
+  @include wrapper-text-align-center;
+}
+
+.center {
+  @include center-text-aling;
+}
+
+.text--light {
+  @include text-light-color;
+}
+
+.min-width-actions {
+  @include min-whidth-actions-display;
+}
+
+.remove-underline{
+  @include remove_underline;
+}
+.border-color{
+  @include border-radius;
+}
+
+
+*{
+  font-family: 'Comfortaa', cursive;
+}

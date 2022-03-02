@@ -1,0 +1,9 @@
+@import './colors';
+@mixin title-default {
+  color: $color;
+  font-size: 3rem;
+  text-align: center;
+  padding: 5px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}

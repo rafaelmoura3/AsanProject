@@ -1,0 +1,798 @@
+<<<<<<< HEAD
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\appsettings.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\AsanAPI.exe
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\AsanAPI.deps.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\AsanAPI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\ref\AsanAPI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\AsanAPI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\ref\AsanAPI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\appsettings.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\AsanAPI.exe
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\AsanAPI.deps.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\AsanAPI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\ref\AsanAPI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\AsanAPI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Castle.Core.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Humanizer.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\ref\AsanAPI.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.pdb
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+=======
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\appsettings.json
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\AsanAPI.exe
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\AsanAPI.deps.json
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\AsanAPI\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\appsettings.json
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\AsanAPI.exe
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\AsanAPI.deps.json
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\Formação\ASAN - BackEnd\api\AsanAPI\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\appsettings.json
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\AsanAPI.exe
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\AsanAPI.deps.json
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Formação\api\AsanAPI\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\appsettings.json
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\AsanAPI.StaticWebAssets.xml
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\AsanAPI.exe
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\AsanAPI.deps.json
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\AutoMapper.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Humanizer.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\ASAN-API\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Castle.Core.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dev_Semana OmniStack\FMX\ASAN-API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+>>>>>>> 698dcd8a9e5f925c0f6a9186c919f75145655238
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Project\obj\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\appsettings.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\AsanAPI.StaticWebAssets.xml
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\AsanAPI.exe
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\AsanAPI.deps.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Castle.Core.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\ref\AsanAPI.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.pdb
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.exe
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.deps.json
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\ref\AsanAPI.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.pdb
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.xml
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+C:\Users\Jose Augusto\source\repos\ASAN-PROJECT\bin\Debug\net5.0\Polly.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\appsettings.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\AsanAPI.StaticWebAssets.xml
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\AsanAPI.exe
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\AsanAPI.deps.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\AutoMapper.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Castle.Core.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Humanizer.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Polly.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\appsettings.json
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.exe
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.deps.json
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\ref\AsanAPI.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\AsanAPI.pdb
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Polly.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.xml
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\ref\AsanAPI.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.pdb
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\AsanAPI.StaticWebAssets.xml
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Workspace\FMX\Interneship-Projects\Project Asan\API\bin\Debug\net5.0\Polly.dll
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\bin\Debug\net5.0\appsettings.Staging.json
+D:\Dev_Semana OmniStack\FMX\AsanAPI\api\bin\Debug\net5.0\appsettings.Staging.json
+C:\Users\Jose Augusto\source\repos c#\ASAN-PROJECT\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\appsettings.json
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\appsettings.Staging.json
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\AsanAPI.exe
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\AsanAPI.deps.json
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\AsanAPI.runtimeconfig.json
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\AsanAPI.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\AutoMapper.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Castle.Core.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Humanizer.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Polly.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.Manifest.cache
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\staticwebassets\AsanAPI.StaticWebAssets.xml
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\scopedcss\bundle\AsanAPI.styles.css
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.RazorTargetAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\ref\AsanAPI.dll
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Asan\api\obj\Debug\net5.0\AsanAPI.genruntimeconfig.cache

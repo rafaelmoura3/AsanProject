@@ -1,0 +1,47 @@
+{
+  "parts": [
+    {
+      "id": 1,
+      "name": "aaaaaaaaaaa",
+      "description": "aaaaaaaaaaaaaaaaa"
+    }
+  ],
+  "problems": [
+    {
+      "id": 1,
+      "name": "AAAAAA"
+    }
+  ],
+  "ships": [],
+  "SpaceShipType": [
+    {
+      "id": 3,
+      "name": "aaa",
+      "description": "aaa"
+    },
+    {
+      "id": 4,
+      "name": "tttttttttttt",
+      "description": "ccc"
+    },
+    {
+      "id": 5,
+      "name": "asdfasdf",
+      "description": "asdasdasd"
+    }
+  ],
+  "tools": [
+    {
+      "id": 2,
+      "name": "aaaaaaaa"
+    },
+    {
+      "id": 3,
+      "name": "ccccc"
+    },
+    {
+      "id": 5,
+      "name": "jose"
+    }
+  ]
+}
